@@ -1,2 +1,3 @@
 # PasswordGenerator
-https://github.com/priyanshi31487/PasswordGenerator
+https://priyanshi31487.github.io/PasswordGenerator/
+
